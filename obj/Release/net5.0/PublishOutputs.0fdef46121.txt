@@ -1,0 +1,11 @@
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\EdetailingAPI.exe
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\EdetailingAPI.dll
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\EdetailingAPI.deps.json
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\EdetailingAPI.runtimeconfig.json
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\EdetailingAPI.pdb
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shere\OneDrive\Documents\EdetailingAPI\EdetailingAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
