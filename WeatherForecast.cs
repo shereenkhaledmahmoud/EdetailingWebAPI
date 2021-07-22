@@ -1,6 +1,6 @@
 using System;
 
-namespace EdetailingAPI
+namespace testAPI
 {
     public class WeatherForecast
     {
